@@ -22,4 +22,4 @@ In that we use differnt library which are given below.
 conclusion: Indian Goverment investing lots of money for devloping basic infrastructure for Civil Aviation. And the effect of that investment we can see in our progects
            i.e Incresing no of passenger in lst decade, investment also increases and no of airport present in India.
            
-note:(for studying differnt type of data visualisation visit: https://r-graph-gallery.com/ )
+note:(for studying differnt type of data visualization visit: https://r-graph-gallery.com )
