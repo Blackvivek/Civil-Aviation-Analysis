@@ -1,7 +1,10 @@
 # Civil-Aviation-Analysis
 analyzing the data from Ministry Of Civil Aviation of India 
 Our project based on data analysis using r.
+
 In that we use differnt library which are given below.
+
+
 1)library(ggfortifiy):Data Visualization Tools for Statistical Analysis Results. Unified plotting tools for statistics commonly used, such as GLM, time series, PCA                             families, clustering and survival analysis
 
 2)library(ggplot2):Plotting package that provides helpful commands to create complex plots from data in a data frame. It provides a more programmatic interface for                          specifying what variables to plot, how they are displayed, and general visual properties.
