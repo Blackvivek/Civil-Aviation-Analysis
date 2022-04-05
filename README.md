@@ -43,5 +43,5 @@ Provides the internal scaling infrastructure used by ggplot2, and gives you tool
 note:(for studying differnt type of data visualization visit: https://r-graph-gallery.com )
 
 
-* "you can have data without information,bi=ut you cannot have information without data"
+* "you can have data without information,but you cannot have information without data"
 
